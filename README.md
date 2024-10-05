@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/7aa620c5-2db2-46ee-8a7b-e9dce1d3f1e4" width="100" />
+</p>
 
 
 # 💻 Tech Stack:
